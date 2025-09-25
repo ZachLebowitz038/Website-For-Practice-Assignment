@@ -12,16 +12,19 @@ header {
 }
 
 main {
-  background-color: green;
+  background-color: mistyrose;
   border: 1px blue;
   color: black;
-  padding: 1em;
+  padding: 0.5em;
   margin: 15px;
 }
 
 footer {
-  background-color: orange;
-  border-top: 5px solid crimson;
+  background-color: mistyblue;
   color: black;
-  padding: 1em;
+  padding: 0.5em;
+}
+
+code {
+  background-color: cornsilk;
 }
