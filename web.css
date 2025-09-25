@@ -6,24 +6,22 @@ body {
 
 header {
   background-color: ghostwhite;
-  border-bottom: 1px solid lavender;
   color: black;
   padding: 16pt;
 }
 
 main {
-  background-color: mistyrose;
-  border: 1px blue;
+  background-color: aliceblue;
   color: black;
   padding: 0.5em;
 }
 
 footer {
-  background-color: mistyblue;
+  background-color: mistyrose;
   color: black;
   padding: 0.5em;
 }
 
 code {
-  background-color: cornsilk;
+  background-color: goldenrod;
 }
