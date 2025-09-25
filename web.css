@@ -1,11 +1,11 @@
 body {
-  font-family: menlo;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16pt;
   margin: 0;
 }
 
 header {
-  background-color: Arial, Helvetica, sans-serif, ;
+  background-color: ghostwhite;
   border-bottom: 1px solid lavender;
   color: white;
   padding: 16pt;
